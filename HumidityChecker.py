@@ -21,9 +21,10 @@ If the humidity above 50%, waits 10 minutes, checks the humidity again.
 # https://docs.arduino.cc/resources/datasheets/REN_HS300x-Datasheet_DST.pdf
 # https://docs.arduino.cc/libraries/arduino_hts221/
 
-# Flash it to run CircuitPython and add the following code to the board:
+# Flash it to run CircuitPython and...
 # https://www.adafruit.com/circuitpython
 
+########################### Add the following code to the board: ###########################
 
 """
 # added for dwell time.
@@ -33,8 +34,6 @@ import board   # https://learn.adafruit.com/arduino-to-circuitpython/the-board-m
 import digitalio   # https://docs.circuitpython.org/en/latest/shared-bindings/digitalio/
 # Include the library for the built-in HTS221 temperature and humidity sensor
 import adafruit_hts221   # https://www.adafruit.com/product/4535
-
-
 
 # Set up I2C and the sensor to work with our board...
 i2c = board.I2C()
