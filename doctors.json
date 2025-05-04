@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dr. Alice Carter",
+        "specialty": "Pediatrics",
+        "work_hours": "09:00-17:00"
+    },
+    {
+        "name": "Dr. Benjamin Lee",
+        "specialty": "Cardiology",
+        "work_hours": "08:00-16:00"
+    },
+    {
+        "name": "Dr. Carla Singh",
+        "specialty": "Dermatology",
+        "work_hours": "10:00-18:00"
+    },
+    {
+        "name": "Dr. Daniel Kim",
+        "specialty": "Neurology",
+        "work_hours": "07:00-15:00"
+    },
+    {
+        "name": "Dr. Emily Zhang",
+        "specialty": "General Practice",
+        "work_hours": "09:30-17:30"
+    }
+]

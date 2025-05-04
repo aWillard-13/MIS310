@@ -1,0 +1,149 @@
+[
+    {
+        "name": "John Smith",
+        "age": 20,
+        "gender": "Male",
+        "symptoms": "Headache",
+        "diagnosis": "Migraine",
+        "medications": "Ibuprofen",
+        "allergies": "None",
+        "new_patient": true,
+        "notes": [
+            "1",
+            "notes"
+        ],
+        "doctor": "Dr. Benjamin Lee"
+    },
+    {
+        "name": "Jane Doe",
+        "age": 34,
+        "gender": "Female",
+        "symptoms": "Cough, fever",
+        "diagnosis": "Flu",
+        "medications": "Tamiflu",
+        "allergies": "Penicillin",
+        "new_patient": false,
+        "notes": [],
+        "doctor": "Dr. Carla Singh"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Martinez",
+        "age": 45,
+        "gender": "Male",
+        "new_patient": true,
+        "symptoms": "Chest pain",
+        "diagnosis": "Angina",
+        "medications": "Nitroglycerin",
+        "allergies": "Aspirin",
+        "notes": []
+    },
+    {
+        "name": "Emily Zhang",
+        "age": 27,
+        "gender": "Female",
+        "symptoms": "Back pain",
+        "diagnosis": "Muscle strain",
+        "medications": "Paracetamol",
+        "allergies": "None",
+        "new_patient": true,
+        "notes": [],
+        "doctor": "Dr. Emily Zhang"
+    },
+    {
+        "name": "Ali Khan",
+        "age": 39,
+        "gender": "Male",
+        "symptoms": "Fatigue",
+        "diagnosis": "Anemia",
+        "medications": "Iron supplements",
+        "allergies": "None",
+        "new_patient": true,
+        "notes": [],
+        "doctor": ""
+    },
+    {
+        "name": "Lisa Ray",
+        "age": 50,
+        "gender": "Female",
+        "symptoms": "Shortness of breath",
+        "diagnosis": "Asthma",
+        "medications": "Inhaler",
+        "allergies": "Dust",
+        "new_patient": false,
+        "notes": [],
+        "doctor": "Dr. Daniel Kim"
+    },
+    {
+        "name": "Raj Patel",
+        "age": 60,
+        "gender": "Male",
+        "symptoms": "High blood pressure",
+        "diagnosis": "Hypertension",
+        "medications": "Amlodipine",
+        "allergies": "None",
+        "new_patient": true,
+        "notes": [],
+        "doctor": ""
+    },
+    {
+        "name": "Nina Lopez",
+        "age": 18,
+        "gender": "Female",
+        "symptoms": "Dizziness",
+        "diagnosis": "Vertigo",
+        "medications": "Meclizine",
+        "allergies": "None",
+        "new_patient": true,
+        "notes": [],
+        "doctor": "Dr. Daniel Kim"
+    },
+    {
+        "name": "Steve W",
+        "age": 23,
+        "gender": "male",
+        "symptoms": "?",
+        "diagnosis": "?",
+        "medications": "?",
+        "allergies": "?",
+        "new_patient": true,
+        "notes": [],
+        "doctor": "Dr. Alice Carter"
+    },
+    {
+        "name": "Dave",
+        "age": 11,
+        "gender": "1",
+        "symptoms": "test",
+        "diagnosis": "1",
+        "medications": "11",
+        "allergies": "11",
+        "new_patient": true,
+        "notes": [],
+        "doctor": "Dr. Benjamin Lee"
+    },
+    {
+        "name": "george w",
+        "age": 22,
+        "gender": "",
+        "symptoms": "",
+        "diagnosis": "",
+        "medications": "",
+        "allergies": "",
+        "new_patient": false,
+        "notes": [],
+        "doctor": ""
+    },
+    {
+        "name": "george white",
+        "age": 22,
+        "gender": "",
+        "symptoms": "",
+        "diagnosis": "",
+        "medications": "",
+        "allergies": "",
+        "new_patient": false,
+        "notes": [],
+        "doctor": ""
+    }
+]
