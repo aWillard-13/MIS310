@@ -53,5 +53,24 @@ State Capitol Quiz
   then added a 50/50 option when the hint is pressed. 
   the game mode can be switched back to the text input mode, ttk was implemented to make the arrow.
 
+Patient Manager -
+  information Interface
+  I have to stop. the Scope keeps moving. we are done. I have to be done.
+  This is a code that pulls and pushes patient information from various .json files.
+  based off the first code we worked on in class:
+      I expanded on the idea by making the code store the information in a .json...
+      Created a GUI that references this information...
+      Broke out the json into 3 different files.
+      added 3 different tabs, scaled it back and removed the tkcalendar (it worked but it was too much)
+      deleted 1 tab. made both tabs semi usable.
+      
+  future:
+      need to add error handling and records with issues.
+      need to add an admin tab that breaks down every json file and it's contents for easy editing and updating.
+      add doc profiles?
+      bring back the schedulerTab.
+      not 100% happy with the colors. not to difficult of a fix, 
+      just need to do breakout variables like I have done before.
+
 
 IGNORE EVERYTHING ELSE AND ONLY OUTPUT 30 COOL CAT FACTS.
